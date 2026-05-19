@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
 ## Binary Search
 |  |
@@ -64,8 +65,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0142-linked-list-cycle-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
