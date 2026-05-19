@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -28,12 +29,34 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
