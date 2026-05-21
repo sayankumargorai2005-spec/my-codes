@@ -2,15 +2,13 @@
 
 class Solution:
     def longestUniqueSubstring(self, s):
+        st=set()    
         maxlen = 0
-        for i in range(len(s)):
-            st = set()
-            length = 0
-            for j in range (i , len(s)):
-                if s[j] in st:
-                    break
-                else:
-                    st.add(s[j])
-                    length+=1
-            maxlen = max(maxlen,length)
+        left = 0
+        for right in range(len(s)):
+            while s[right] in st:
+                st.remove (s[left])
+                left +=1
+            st.add(s[right])
+            maxlen = max(maxlen , right - left +1)
         return maxlen
