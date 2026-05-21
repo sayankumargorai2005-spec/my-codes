@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0078-subsets) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0704-binary-search) |
@@ -102,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0933-number-of-recent-calls) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sayankumargorai2005-spec/my-codes/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
